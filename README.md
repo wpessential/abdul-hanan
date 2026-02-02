@@ -21,36 +21,38 @@ I have completed multiple projects for clients worldwide, delivering clean code,
 ### ✨ Portfolio / Clients 🤝 Works ✨
 ---
 
-- [Al-Madinah International University](https://mediu.edu.my/) - Website
-- [Evernect](https://evernect.com) - Website
-- [MetricApp](https://metricapp.co/) - Website
-- [Relco Systems](https://relco.systems/) - Website
-- [Partnr's Studio]() - Website
-- [Scottish Currency Group](https://scg.scot/) - Website
-- [Drake Ship Logistics](https://drakeshlg.com/) - Website
-- [Industria Y Ambiente S.A.]() - Website
-- [QuoteM8.ai](https://QuoteM8.ai) - Website
-- [Gematria World](https://gematriaworld.com/) - Website
+- [Al-Madinah International University](https://mediu.edu.my/) - Website -> WPBakery
+- [Evernect](https://evernect.com) - Website -> WPBakery
+- [MetricApp](https://metricapp.co/) - Website -> HTML & HubSpot
+- [Relco Systems](https://relco.systems/) - Website -> HTML
+- [Partnr's Studio](https://github.com/wpessential/abdul-hanan/blob/main/partnrs-studio.md) - Website -> Elementor
+- [Beeswaxs Wealth](https://github.com/wpessential/abdul-hanan/blob/main/iya.md) - Website -> HTML
+- [Eco Tiffin](http://solvedm90.sg-host.com/) - Website -> Elementor
+- [Scottish Currency Group](https://scg.scot/) - Website -> HTML
+- [Drake Ship Logistics](https://drakeshlg.com/) - Website -> HTML
+- [Industria Y Ambiente S.A.](https://github.com/wpessential/abdul-hanan/blob/main/iya.md) - Website -> HTML
+- [QuoteM8.ai](https://QuoteM8.ai) - Website -> Elementor
+- [Gematria World](https://gematriaworld.com/) - Website -> Elementor
 - [Movers Quote Calculator](https://movers-network.co.uk/get-quote-calculator/) - Plugin
 - [Gematria World Calculator](https://gematriaworld.com/calculator) - Plugin
-- [Figgers Law](https://figgerslaw.com/) - Website
-- [Figgers Health](https://figg.health) - Website
-- [Pakistan Media Monitor](https://pakistanmediamonitor.com/) - Website
-- [Figgers Inc.](https://figgersinc.com/) - Website
-- [LifeLine 2](https://webinane.com/wp-themes/lifeline2.php) - Theme
-- [Deeds 2](https://webinane.com/wp-themes/deeds2.php) - Theme
-- [Medicalist](https://webinane.com/wp-themes/medicalist.php) - Theme
-- [Restinn](https://webinane.com/wp-themes/restinn.php) - Theme
-- [Flaky](https://webinane.com/wp-themes/flaky.php) - Theme
-- [Flavia](https://webinane.com/wp-themes/flavia.php) - Theme
-- [Tacon](https://webinane.com/wp-themes/tacon.php) - Theme
-- [LifeLine](https://webinane.com/wp-themes/lifeline.php) - Theme
-- [Probiz](https://webinane.com/wp-themes/probiz.php) - Theme
-- [Electric](https://webinane.com/wp-themes/electric.php) - Theme
-- [Dictate](https://webinane.com/wp-themes/dictate.php) - Theme
-- [Deeds](https://webinane.com/wp-themes/deeds.php) - Theme
-- [Actavista](https://webinane.com/wp-themes/actavista.php) - Theme
-- [Personal](https://webinane.com/wp-themes/personal.php) - Theme
+- [Figgers Law](https://figgerslaw.com/) - Website -> Gutenberg
+- [Figgers Health](https://figg.health) - Website -> Gutenberg
+- [Pakistan Media Monitor](https://pakistanmediamonitor.com/) - Website -> Gutenberg
+- [Figgers Inc.](https://figgersinc.com/) - Website -> HTML + PHP
+- [LifeLine 2](https://webinane.com/wp-themes/lifeline2.php) - Theme -> Elementor
+- [Deeds 2](https://webinane.com/wp-themes/deeds2.php) - Theme -> Elementor
+- [Medicalist](https://webinane.com/wp-themes/medicalist.php) - Theme -> Elementor
+- [Restinn](https://webinane.com/wp-themes/restinn.php) - Theme -> Elementor
+- [Flaky](https://webinane.com/wp-themes/flaky.php) - Theme -> Elementor
+- [Flavia](https://webinane.com/wp-themes/flavia.php) - Theme -> Elementor
+- [Tacon](https://webinane.com/wp-themes/tacon.php) - Theme -> Elementor
+- [LifeLine](https://webinane.com/wp-themes/lifeline.php) - Theme -> Elementor
+- [Probiz](https://webinane.com/wp-themes/probiz.php) - Theme -> Elementor
+- [Electric](https://webinane.com/wp-themes/electric.php) - Theme -> Elementor
+- [Dictate](https://webinane.com/wp-themes/dictate.php) - Theme -> Elementor
+- [Deeds](https://webinane.com/wp-themes/deeds.php) - Theme -> Elementor
+- [Actavista](https://webinane.com/wp-themes/actavista.php) - Theme -> Elementor
+- [Personal](https://webinane.com/wp-themes/personal.php) - Theme -> Elementor
 - [GenZik](https://themeforest.net/item/genzik-clean-fashion-ecommerce-site-template/52755377?irgwc=1&afsrc=1&clickid=2MBXCRUK-xycTLk0isz8lT8aUku0i411qWBqTg0&iradid=480739&irpid=121977&iradtype=TEXT_LINK&irmptype=mediapartner&mp_value1=&utm_campaign=af_impact_radius_121977&utm_medium=affiliate&utm_source=impact_radius) - HTML Template
 - [WPEssential](https://wordpress.org/plugins/wpessential) - Plugin
 - [WPEssential Elementor Blocks](https://wordpress.org/plugins/wpessential-elementor-blocks) - Plugin
