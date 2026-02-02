@@ -1,59 +1,60 @@
-### WPessential 👋
+### Hi!👋
+
+I’m a WordPress expert with years of experience creating custom themes, plugins, and website solutions that help businesses grow online. I specialize in:
+
+- Custom WordPress Themes – From scratch or tailored to your branding
+- Plugin Development & Customization – Extend functionality exactly how you need it
+- Website Optimization – Speed, SEO, and mobile-friendly performance
+- E-commerce Solutions – WooCommerce stores that convert visitors into buyers
+
+I have completed multiple projects for clients worldwide, delivering clean code, fast turnaround, and websites that actually work for your business.
+
+### 💡 Why hire me?
+
+- Fast, reliable, and professional communication
+- Strong understanding of WordPress architecture
+- Focused on results, not just websites
+- Check my portfolio for examples of my work below
+
 ---
 
-**WPessential** is a dedicated WordPress solutions provider specializing in delivering high-quality, tailored services for businesses and individuals. With deep expertise in WordPress development, customization, and optimization, WPessential creates powerful, scalable, and user-friendly websites that align perfectly with clients’ goals. Our team combines technical proficiency with creative problem-solving to craft solutions that not only look great but also perform flawlessly. We pride ourselves on delivering excellence in every project—whether it’s building from scratch, enhancing functionality, improving performance, or ensuring robust security. By staying at the forefront of WordPress innovation and adhering to industry best practices, WPessential ensures that every client receives a reliable, future-ready website that drives growth, engagement, and digital success.
-
+### ✨ Portfolio / Clients 🤝 Works ✨
 ---
 
-### ✨ Our Works ✨
----
+- [Al-Madinah International University](https://mediu.edu.my/) - Website
+- [Evernect](https://evernect.com) - Website
+- [MetricApp](https://metricapp.co/) - Website
+- [Relco Systems](https://relco.systems/) - Website
+- [Partnr's Studio]() - Website
+- [Scottish Currency Group](https://scg.scot/) - Website
+- [Drake Ship Logistics](https://drakeshlg.com/) - Website
+- [Industria Y Ambiente S.A.]() - Website
+- [QuoteM8.ai](https://QuoteM8.ai) - Website
+- [Gematria World](https://gematriaworld.com/) - Website
+- [Movers Quote Calculator](https://movers-network.co.uk/get-quote-calculator/) - Plugin
+- [Gematria World Calculator](https://gematriaworld.com/calculator) - Plugin
+- [Figgers Law](https://figgerslaw.com/) - Website
+- [Figgers Health](https://figg.health) - Website
+- [Pakistan Media Monitor](https://pakistanmediamonitor.com/) - Website
+- [Figgers Inc.](https://figgersinc.com/) - Website
+- [LifeLine 2](https://webinane.com/wp-themes/lifeline2.php) - Theme
+- [Deeds 2](https://webinane.com/wp-themes/deeds2.php) - Theme
+- [Medicalist](https://webinane.com/wp-themes/medicalist.php) - Theme
+- [Restinn](https://webinane.com/wp-themes/restinn.php) - Theme
+- [Flaky](https://webinane.com/wp-themes/flaky.php) - Theme
+- [Flavia](https://webinane.com/wp-themes/flavia.php) - Theme
+- [Tacon](https://webinane.com/wp-themes/tacon.php) - Theme
+- [LifeLine](https://webinane.com/wp-themes/lifeline.php) - Theme
+- [Probiz](https://webinane.com/wp-themes/probiz.php) - Theme
+- [Electric](https://webinane.com/wp-themes/electric.php) - Theme
+- [Dictate](https://webinane.com/wp-themes/dictate.php) - Theme
+- [Deeds](https://webinane.com/wp-themes/deeds.php) - Theme
+- [Actavista](https://webinane.com/wp-themes/actavista.php) - Theme
+- [Personal](https://webinane.com/wp-themes/personal.php) - Theme
+- [GenZik](https://themeforest.net/item/genzik-clean-fashion-ecommerce-site-template/52755377?irgwc=1&afsrc=1&clickid=2MBXCRUK-xycTLk0isz8lT8aUku0i411qWBqTg0&iradid=480739&irpid=121977&iradtype=TEXT_LINK&irmptype=mediapartner&mp_value1=&utm_campaign=af_impact_radius_121977&utm_medium=affiliate&utm_source=impact_radius) - HTML Template
+- [WPEssential](https://wordpress.org/plugins/wpessential) - Plugin
+- [WPEssential Elementor Blocks](https://wordpress.org/plugins/wpessential-elementor-blocks) - Plugin
+- [TCI Ultimate Element Themes](https://wordpress.org/plugins/tci-ultimate-element-themes/) - Plugin
+- [WPEssential Icons](https://wordpress.org/plugins/wpessential-icons/) - Plugin
 
-- [Visit WPEssential ORG](https://wpessential.org)
-  - #### Plugins
-    - ##### WPEssential
-      - [GitHub](https://github.com/6SigmaMatrix/wpessential)
-      - [WordPress](https://wordpress.org/plugins/wpessential/)
-    - ##### WPEssential Elementor Blocks
-      - [GitHub](https://github.com/6SigmaMatrix/wpessential-elementor-blocks)
-      - [WordPress](https://wordpress.org/plugins/wpessential-elementor-blocks)
-    - ##### WPEssential Elementor Blocks PRO
-      - [GitHub](https://github.com/6SigmaMatrix/wpessential-elementor-blocks-pro)
-      - [WordPress]()
-    - ##### WPEssential Mass Mover
-      - [GitHub](https://github.com/6SigmaMatrix/wpessential-mass-mover)
-    - ##### WPEssential Icons
-      - [GitHub](https://github.com/6SigmaMatrix/wpessential-icons)
-      - [WordPress](https://wordpress.org/plugins/wpessential-icons/)
-  - #### Themes
-    - ##### WPEssential Theme PRO 
-      - [GitHub](https://github.com/6SigmaMatrix/wpessential-theme-pro)
-      - [DEMO](https://wpessential.org)
-    - ##### Al-Madinah International University
-      - [GitHub HTML](https://github.com/6SigmaMatrix/mediu-html)
-      - [GitHub WP](https://github.com/6SigmaMatrix/wpessential-mediu)
-      - [DEMO](https://www.mediu.edu.my/)
-    - ##### Need Tire
-      - [GitHub](https://github.com/6SigmaMatrix/wpessential-woo-tires)
-      - [DEMO](https://needtire.com/)
-    - ##### WPE Advocate
-      - [GitHub](https://github.com/6SigmaMatrix/wpe-advocatus)
-    - ##### WPEssential Hero Theme
-      - [GitHub](https://github.com/6SigmaMatrix/wpessential-hero-theme)
-    - ##### Sleepcity
-      - [GitHub WP](https://github.com/6SigmaMatrix/sleeepsity)
-      - [GitHub HTML](https://github.com/6SigmaMatrix/sleepsity-html)
-
-<!--
-**wpessential/wpessential** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let’s work together to build a WordPress site or plugin that solves your problem and impresses your users.
